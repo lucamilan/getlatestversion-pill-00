@@ -1,2 +1,9 @@
-# getlatestversion-pill-00
-Pulumi and Github Actions
+# Pulumi and Github Actions
+
+## Get Pulumi on your laptop
+
+## Commit the code to Github
+
+## Configure CI/CD pipeline
+
+
